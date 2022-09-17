@@ -1,4 +1,6 @@
-Hi! I'm a full-stack developer working mostly in the JavaScript ecosystem. 
+Hi! I'm a full-stack dev working mostly in the JavaScript ecosystem. I like building anything that has a positive impact.
+
+My current focus is D3no Data (pinned below), but I'm also working on a solo project that's like Cookie Clicker, but with gecs. So it's an incregectal clicker game. Please hold your applause.
 
 ## Technologies I Work With Include...
 
@@ -51,3 +53,5 @@ Hi! I'm a full-stack developer working mostly in the JavaScript ecosystem.
 
 ##
 ![](https://komarev.com/ghpvc/?username=aw1ld3v13&color=blueviolet&style=for-the-badge)
+
+If you'd like to work on something together or have questions about any technology listed here, I'd be happy to hear from you!
