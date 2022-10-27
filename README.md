@@ -1,6 +1,6 @@
 Hi! I'm a full-stack dev working mostly in the JavaScript ecosystem. I like learning things and building anything that has a positive impact.
 
-My current focus is D3no Data (pinned below), but I'm also working on a solo/side project that's like Cookie Clicker, but with gecs. So it's an incregectal clicker game. Please hold your applause.
+My current focus is D3no Data (pinned below), a data visualization component library built using D3 and Preact for lightweight and easy-to-use data visualization components in Fresh.
 
 ## Technologies I Work With Include...
 | Category | Technologies |
